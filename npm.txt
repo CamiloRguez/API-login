@@ -1,0 +1,2 @@
+npm install passport-google-oauth
+npm install mongoose
